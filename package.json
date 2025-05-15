@@ -25,9 +25,12 @@
     "@babel/preset-env": "^7.8.3",
     "uglify-js": "^3.7.6"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react": "18",
+    "react-dom": "18"
+  },
   "peerDependencies": {
-    "react": ">=15",
-    "react-dom": ">=15"
+    "react": ">=17",
+    "react-dom": ">=17"
   }
 }
